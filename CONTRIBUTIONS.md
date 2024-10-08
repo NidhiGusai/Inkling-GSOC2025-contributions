@@ -27,6 +27,7 @@
 - 202301103 Krish Makwana
 - 202301039 Parshv Joshi
 - 202412103 Shashank Kumar
+- 202319015 Nidhi Gusai
 - 202412076 Pratyush Jha
 - 202412077 Vashisht Purani
 - 202301135 Kashish Kanjariya
